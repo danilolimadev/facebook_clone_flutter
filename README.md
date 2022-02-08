@@ -7,8 +7,8 @@ Projeto onde foi criado um clone da interface do facebook para mobile e web.
 | Mobile - Home Page | Mobile - Home Page |
 |------|-------|
 |<img src="screenshots/screenshot1.jpg" width="400">|<img src="screenshots/screenshot2.jpg" width="400">|
-
 | Web - Home Page | Web - Home Page |
+|------|-------|
 |<img src="screenshots/screenshot3.jpg" width="400">|<img src="screenshots/screenshot4.jpg" width="400">|
 
 ## 🚀 Começando
